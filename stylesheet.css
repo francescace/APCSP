@@ -1,0 +1,41 @@
+.heading { 
+    padding: 60px;
+    font-size: 25px;
+    text-align: center; /*chatGPT */
+    background-color: #6495ED;
+}
+
+.section {
+    background-color: #CCCCFF;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 15px; /*chatGPT */
+}
+
+.saxophone {
+  background-color: #FBE7A1;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 15px; /*chatGPT */
+}
+
+
+.movie {
+  background-color: #FF69B4;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 15px; /*chatGPT */*/
+}
+
+/*All chatGPT under here*/
+img {
+    border-radius: 20px;  
+    border: 5px solid #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.2); 
+}
+
+
+h3 {
+    color: #040720; 
+    font-size: 28px;
+}
